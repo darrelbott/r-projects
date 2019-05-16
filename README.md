@@ -1,5 +1,5 @@
 # r-projects
-R projects
+R project report that shows visualizations, correlations, and other analyzing insights.
 
 This project was based on a dataset found on Kaggle which concluded country happiness based on different variables.
 
